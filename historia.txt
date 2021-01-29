@@ -5,5 +5,6 @@ Juego al futbol
 Soy zurdo 
 Juego de delantero
 Cabecera 
+Soy de nacionalidad italiana y argentina 
 Hoy vivo en España  
 Hoy hablaremos de mi historia 
