@@ -1,0 +1,15 @@
+Esta es la historia de julian Gabriel Elisii 
+Tengo 23 años 
+Naci en argentina
+Juego al futbol 
+Soy zurdo 
+Juego de delantero
+<<<<<<< HEAD
+Cabecera del futbol
+=======
+Cabecera de mi vida  
+>>>>>>> cabecera
+Soy de nacionalidad italiana y argentina 
+Hoy vivo en España  
+Estudio informatica 
+Hoy hablaremos de mi historia
